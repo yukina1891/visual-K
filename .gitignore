@@ -1,0 +1,5 @@
+#以下のファイルはgithubのリポジトリにpushしない
+.htaccess
+.htpasswd
+.htaccess~
+.htpasswd~
